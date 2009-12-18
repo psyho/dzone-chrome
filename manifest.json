@@ -1,0 +1,8 @@
+{
+  "name": "Google Chrome DZone extension",
+  "version": "1.0",
+  "description": "Voting extension for DZone.",
+  "browser_action": {
+    "default_icon": "icon.png"
+  }  
+}
