@@ -9,15 +9,5 @@
   "permissions": [
     "tabs",
     "http://www.dzone.com/*"  
-  ],
-  "content_scripts": [
-    {
-      "js": [
-        "dzone_content_script.js"
-      ],
-      "matches": [
-        "http://*/*"
-      ]
-    }
   ]
 }
